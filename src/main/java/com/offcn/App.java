@@ -11,6 +11,7 @@ public class App {
         for (int i = 0; i <3; i++) {
             int sa=23;
             int dddd=78;
+            int dd=45;
         }
     }
 }
