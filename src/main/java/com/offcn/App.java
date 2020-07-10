@@ -9,6 +9,7 @@ public class App {
     public static void main(String[] args) {
         System.out.println();
         for (int i = 0; i <3; i++) {
+            int s=12;
         }
     }
 }
